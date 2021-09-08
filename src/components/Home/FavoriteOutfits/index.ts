@@ -1,0 +1,1 @@
+export {FavoriteOutfits} from './FavoriteOutfits'
